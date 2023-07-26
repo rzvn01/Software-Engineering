@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="lab10.Examen_nou">
+  <grid id="4524c" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="13" y="8" width="737" height="542"/>
+    </constraints>
+    <properties>
+      <autoscrolls value="false"/>
+      <background color="-1"/>
+    </properties>
+    <border type="none" title="mama mea" title-justification="2">
+      <font name="Times New Roman"/>
+      <title-color color="-4520431"/>
+    </border>
+    <children/>
+  </grid>
+</form>
